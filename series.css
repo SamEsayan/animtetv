@@ -1,0 +1,202 @@
+.body{
+    background: darkgray;
+}
+.d1 {
+    color: blue;
+    text-align: start;
+    position: absolute;
+    top: 8px;
+    left: 10px;
+}
+.d2{
+    color: darkred;
+    position: absolute;
+    top: 8px;
+    left: 200px;
+}
+.d4{
+    color: darkred;
+    position: absolute;
+    top: 8px;
+    left: 390px;
+}
+.h1{
+    position: absolute;
+    color: red;
+    top: 130px;
+    left: 30px;
+}
+.h11{
+    position: absolute;
+    top: 200px;
+    left: 33px;
+}
+.h2{
+    position: absolute;
+    top: 130px;
+    left: 330px;
+}
+.h22{
+    position: absolute;
+    top: 200px;
+    left: 360px;
+}
+.h3{
+    position: absolute;
+    top: 130px;
+    left: 700px;
+}
+.h33{
+    position: absolute;
+    top: 200px;
+    left: 730px;
+}
+.h4{
+    position: absolute;
+    top: 130px;
+    left: 1100px;
+}
+.h44{
+    position: absolute;
+    top: 200px;
+    left: 1120px;
+}
+.h5{
+    position: absolute;
+    top: 130px;
+    left: 1500px;
+}
+.h55{
+    position: absolute;
+    top: 200px;
+    left: 1500px;
+}
+.h6{
+    position: absolute;
+    left: 30px;
+    top: 550px;
+}
+.h66{
+    position: absolute;
+    left: 33px;
+    top: 610px;
+}
+.h7{
+    position: absolute;
+    top: 550px;
+    left: 350px;
+}
+.h77{
+    position: absolute;
+    top: 610px;
+    left: 360px;
+}
+.h8{
+    position: absolute;
+    top: 550px;
+    left: 730px;
+}
+.h88{
+    position: absolute;
+    top: 610px;
+    left: 730px;
+}
+.h9{
+    position: absolute;
+    top: 550px;
+    left: 1120px;
+}
+.h99{
+    position: absolute;
+    top: 610px;
+    left: 1120px;
+}
+.h10{
+    position: absolute;
+    top: 550px;
+    left: 1500px;
+}
+.h100{
+    position: absolute;
+    top: 610px;
+    left: 1500px;
+}
+.h110{
+    position: absolute;
+    top: 950px;
+    left: 30px;
+}
+.h1100{
+    position: absolute;
+    left: 33px;
+    top: 1000px;
+}
+.logo{
+    position: absolute;
+    top: -15px;
+    left: 30px;
+    height: 120px;
+    border: 40px;
+    width: 120px;
+}
+.h120{
+    position: absolute;
+    top: 950px;
+    left: 360px;
+}
+.h1200{
+    position: absolute;
+    top: 1000px;
+    left: 360px;
+}
+.h130{
+    position: absolute;
+    top: 950px;
+    left: 730px;
+}
+.h1300{
+    position: absolute;
+    top: 1000px;
+    left: 730px;
+}
+.h140{
+    position: absolute;
+    top: 950px;
+    left: 1120px;
+}
+.h1400{
+    position: absolute;
+    top: 1000px;
+    left: 1120px;
+}
+.h150{
+    position: absolute;
+    top: 950px;
+    left: 1500px;
+}
+.h1500{
+    position: absolute;
+    top: 1000px;
+    left: 1500px;
+}
+.h2222{
+    position: absolute;
+    top: 1400px;
+    left: 60px;
+}
+.up{
+    position: absolute;
+    top: 1250px;
+    left: 1700px;
+}
+.verev{
+    height: 120px;
+    border: 40px;
+    width: 120px;
+}
+#myInput {
+    position: absolute;
+    left: 400px;
+    top: 30px;
+  }
+  

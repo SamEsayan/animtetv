@@ -1,0 +1,129 @@
+.d1 {
+    color: blue;
+    text-align: start;
+    position: absolute;
+    top: 8px;
+    left: 10px;
+}
+.d2{
+    color: darkred;
+    position: absolute;
+    top: 8px;
+    left: 200px;
+}
+.d4{
+    color: darkred;
+    position: absolute;
+    top: 8px;
+    left: 390px;
+}
+.naruto {
+    position: absolute;
+    top: 150px;
+    left: 20px;
+}
+.attack{
+    position: absolute;
+    top: 150px;
+    left: 600px;
+}
+.slayer{
+    position: absolute;
+    top: 150px;
+    left: 1180px;
+}
+.one{
+    position: absolute;
+    top: 700px;
+    left: 20px;
+}
+.tokyo{
+    position: absolute;
+    top: 700px;
+    left: 600px;
+}
+.death{
+    position: absolute;
+    top: 700px;
+    left: 1180px;
+}
+.naruto1{
+    color: black;
+    background: burlywood;
+    position: absolute;
+    left: 60px;
+    top: 550px;
+}
+.attack1{
+    color: black;
+    background: burlywood;
+    position: absolute;
+    top: 550px;
+    left: 640px;
+}
+.demon1{
+    position: absolute;
+    color: black;
+    background: burlywood;
+    top: 550px;
+    left: 1220px;
+}
+.one1{
+    position: absolute;
+    color: black;
+    background: burlywood;
+    left: 60px;
+    top: 1100px;
+}
+.tokyo1{
+    position: absolute;
+    color: black;
+    background: burlywood;
+    left: 640px;
+    top: 1100px;
+}
+.death1{
+    position: absolute;
+    color: black;
+    background: burlywood;
+    top: 1100px;
+    left: 1220px;
+}
+.body{
+    background: darkseagreen;
+    
+}
+.gic{
+    position: absolute;
+    top: 1200px;
+    left: 1400px;
+}
+.h22{
+    position: absolute;
+    top: 1400px;
+    left: 60px;
+}
+.up{
+    position: absolute;
+    top: 1250px;
+    left: 1700px;
+}
+.verev{
+    height: 120px;
+    border: 40px;
+    width: 120px;
+}
+.logo{
+    position: absolute;
+    top: -15px;
+    left: 30px;
+    height: 120px;
+    border: 40px;
+    width: 120px;
+}
+#myInput {
+    position: absolute;
+    left: 400px;
+    top: 30px;
+  }
+  
